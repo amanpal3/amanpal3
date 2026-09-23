@@ -11,6 +11,7 @@ Building intelligent, scalable products with **AI/ML, Generative AI and modern w
 <a href="https://www.linkedin.com/in/aman-pal-104410367"><img src="https://img.shields.io/badge/LinkedIn-Aman%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:amanpal6@outlook.com"><img src="https://img.shields.io/badge/Outlook-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 <a href="https://github.com/amanpal3"><img src="https://img.shields.io/badge/GitHub-amanpal3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://discord.com/users/amp9988"><img src="https://img.shields.io/badge/Discord-amp9988-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </div>
 
@@ -157,6 +158,7 @@ AI-focused platform for intelligent skill analysis and career-oriented recommend
 <a href="https://www.linkedin.com/in/aman-pal-104410367"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:amanpal6@outlook.com"><img src="https://img.shields.io/badge/Outlook-Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 <a href="https://github.com/amanpal3"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://discord.com/users/amp9988"><img src="https://img.shields.io/badge/Discord-amp9988-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 <br><br>
 
